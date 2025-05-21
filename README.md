@@ -35,7 +35,6 @@ This dashboard is powered by data from the following tables:
 - 🎛️ **Interactive Slicers**: Filter data by Region, Wholesaler, and Line of Business
 - 🧹 **Data Cleanup**: Removed duplicates, handled nulls, standardized fields using Power Query
 - ⚙️ **DAX Measures**: Created calculated KPIs for accurate reporting
-- 🔄 **Report Automation**: Configured data refresh in Power BI Service
 
 ---
 
@@ -44,8 +43,7 @@ This dashboard is powered by data from the following tables:
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 - Power Query
-- SQL Server (simulated backend)
-- Power BI Service (for sharing and refresh automation)
+- Excel
 
 ---
 
